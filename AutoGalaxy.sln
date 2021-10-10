@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoGalaxy", "AutoGalaxy\AutoGalaxy.csproj", "{FD052DA0-C698-4AFA-A5E7-CE9CD71AC4DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoGalaxy.Tests", "AutoGalaxy.Tests\AutoGalaxy.Tests.csproj", "{013A0DCA-1573-41B0-A77E-BF15B8F5EC2E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD052DA0-C698-4AFA-A5E7-CE9CD71AC4DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD052DA0-C698-4AFA-A5E7-CE9CD71AC4DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD052DA0-C698-4AFA-A5E7-CE9CD71AC4DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD052DA0-C698-4AFA-A5E7-CE9CD71AC4DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{013A0DCA-1573-41B0-A77E-BF15B8F5EC2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{013A0DCA-1573-41B0-A77E-BF15B8F5EC2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{013A0DCA-1573-41B0-A77E-BF15B8F5EC2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{013A0DCA-1573-41B0-A77E-BF15B8F5EC2E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5BD4BD21-3322-4EDF-B3A1-0A3BBFB4151A}
+	EndGlobalSection
+EndGlobal
